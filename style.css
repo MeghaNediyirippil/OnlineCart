@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    color: white;
+}
+h3{
+    color: yellow;
+}
+.p1{
+    color: black;
+    font-size: 20px;
+}
+.p2{
+    color: green;
+}
+.p3{
+    color: rgb(68, 67, 67);
+}
+.col1{
+    text-align: center;
+    padding: 50px;
+}
+.row1{
+    display: flex;
+   
+    background-color: white;
+    padding: 50px;
+    margin-top: 10px;
+    
+}
+
+.images:hover{
+    width: 190px;
+    height: 210px;
+}
+.footer{
+    background-color: rgb(31, 31, 56);
+    height: 30px;
+    color: white;
+    font-size: 12px;
+    padding: 50px 80px;
+    
+}
+i{
+    padding-left: 100px;
+}
